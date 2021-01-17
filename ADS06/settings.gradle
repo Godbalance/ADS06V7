@@ -1,0 +1,2 @@
+rootProject.name='ADS06'
+include ':app'
