@@ -38,7 +38,7 @@ class AddActivity : AppCompatActivity() {
 
         SpinnerAdapter()
 
-//        Удалить после добавления спинера
+//        Удалить после добавления спинера a
 //        val adres = intent.getStringExtra("ADRES")
 //        Удалить после добавления спинера
 //        input_adres.setText(adres)
