@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740349360741",
+    "firebase_url": "https://ads06-98604.firebaseio.com",
+    "project_id": "ads06-98604",
+    "storage_bucket": "ads06-98604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740349360741:android:ff9bb7edf8dcf38a90e48c",
+        "android_client_info": {
+          "package_name": "com.godbalance.ads06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740349360741-jl0270q36vftl0749gmj9he3hr20m187.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.godbalance.ads06",
+            "certificate_hash": "b9686578061a0c524fa76f4805d173ba3d5ca6a6"
+          }
+        },
+        {
+          "client_id": "740349360741-8k9bkap56hpq4tgbqv2ed6uan32227qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxL9EZJ7i_k_0a_WBvaJAxtFrh_lylhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740349360741-8k9bkap56hpq4tgbqv2ed6uan32227qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
