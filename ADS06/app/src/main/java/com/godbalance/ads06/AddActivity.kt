@@ -37,7 +37,6 @@ class AddActivity : AppCompatActivity() {
         setContentView(R.layout.activity_add_copy)
 
         SpinnerAdapter()
-        SpinnerAdapter()
 
 //        Удалить после добавления спинера
 //        val adres = intent.getStringExtra("ADRES")
