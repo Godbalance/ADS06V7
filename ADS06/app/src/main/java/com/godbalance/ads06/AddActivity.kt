@@ -36,6 +36,8 @@ class AddActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_copy)
 
+        val x = "test"
+
         SpinnerAdapter()
 
 //        Удалить после добавления спинера a
