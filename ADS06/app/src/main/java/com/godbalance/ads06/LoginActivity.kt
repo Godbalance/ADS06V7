@@ -237,7 +237,7 @@ class LoginActivity : AppCompatActivity() {
         }
 
 //        Юрий Писарев 60095190 yuriy.bau39@gmail.com
-        btn_pk_9.setOnClickListener{
+        btn_pk_10.setOnClickListener{
             val pk = "П.Юрий"
             val bui = AlertDialog.Builder(this)
             bui.setTitle("Введите пароль $pk")
