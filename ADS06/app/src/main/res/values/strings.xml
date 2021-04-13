@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">ADS06</string>
+    <string name="NAME4607187182589">Зажимы СВП 100 шт толщина шва 2 мм</string>
+    <string name="NAME2000180704451">Ступень EG12 30х30 см керамогранит, цвет серый</string>
+    <string name="NAME4823057311587">Декор настенный Пиона №3 20x50 см цвет бежевый</string>
     <string name="NAME4690403023278">Вставка «Неаполь D1» 30x60 см цвет коричневый</string>
     <string name="NAME4690403023346">Вставка «Неаполь D» 30x60 см цвет бежево-коричневый</string>
     <string name="NAME4690298072856">Декор «Дора» 20x30 см цвет серый</string>
@@ -1090,6 +1093,9 @@
     <string name="NAME4607013045453">СРЕДСТВО ДЛЯ ОЧИСТКИ МРАМОРА И ГРАНИТА 1</string>
     <string name="NAME4607013045408">ЗАЩИТНАЯ ПРОПИТКА ДЛЯ КЕРАМОГРАНИТА 1Л</string>
     <string name="NAME4607013045415">ЗАЩИТНАЯ ПРОПИТКА ДЛЯ КЛИНКЕРА 1Л.</string>
+    <string name="LM4607187182589">82599519</string>
+    <string name="LM2000180704451">18070445</string>
+    <string name="LM4823057311587">82454922</string>
     <string name="LM4690403023278">82619705</string>
     <string name="LM4690403023346">82619704</string>
     <string name="LM4690298072856">82497897</string>

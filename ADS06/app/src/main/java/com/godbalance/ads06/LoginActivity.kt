@@ -211,7 +211,7 @@ class LoginActivity : AppCompatActivity() {
 
         }
 
-        // 60062672 Самойленко Алексей Владимирович 09965432647118152146@android-for-work. gserviceaccount.com
+        // 60062672 Самойленко Алексей Владимирович alekseysamoilenko37@gmail.com
         btn_pk_9.setOnClickListener{
             val pk = "С.Алексей"
             val bui = AlertDialog.Builder(this)
